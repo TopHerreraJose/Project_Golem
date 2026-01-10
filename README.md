@@ -1,3 +1,5 @@
+![Project Golem Demo](Golem.gif)
+
 # Project Golem: Neural Memory Visualizer
 
 **A 3D interface for visualizing RAG (Retrieval-Augmented Generation) memory structures in real-time.**
