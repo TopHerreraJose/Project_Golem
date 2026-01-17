@@ -1,4 +1,4 @@
-![Project Golem Demo](Golem.gif)
+![Demo](assets/Golem.gif)
 
 # Project Golem: Neural Memory Visualizer
 
